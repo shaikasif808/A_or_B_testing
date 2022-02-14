@@ -1,0 +1,2 @@
+# A_or_B_testing
+A E-Commerce organization want to know whether it should update there existing landing page. So it carries a survey with control group (users who will get old landing page) and experiment group (users who will get new landing page) and based on CTR ratio we need to decide which landing page brings more success. Around 300,000 users took part in the survey with an almost 50-50% ratio in each group.
